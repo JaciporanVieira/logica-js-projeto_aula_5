@@ -27,3 +27,7 @@ Neste projeto, desenvolvi uma série de exercícios e exemplos práticos para re
 
 ---
 
+> Feito com 💻, ☕ e muita curiosidade!  
+Por mim, [Jaciporan Vieira](https://github.com/JaciporanVieira)  
+
+---
